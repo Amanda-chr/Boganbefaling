@@ -1,0 +1,14 @@
+C:\Users\Amand\source\repos\Eksamen 1\bin\Debug\net8.0\Eksamen 1.exe
+C:\Users\Amand\source\repos\Eksamen 1\bin\Debug\net8.0\Eksamen 1.deps.json
+C:\Users\Amand\source\repos\Eksamen 1\bin\Debug\net8.0\Eksamen 1.runtimeconfig.json
+C:\Users\Amand\source\repos\Eksamen 1\bin\Debug\net8.0\Eksamen 1.dll
+C:\Users\Amand\source\repos\Eksamen 1\bin\Debug\net8.0\Eksamen 1.pdb
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\Eksamen 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\Eksamen 1.AssemblyInfoInputs.cache
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\Eksamen 1.AssemblyInfo.cs
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\Eksamen 1.csproj.CoreCompileInputs.cache
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\Eksamen 1.dll
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\refint\Eksamen 1.dll
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\Eksamen 1.pdb
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\Eksamen 1.genruntimeconfig.cache
+C:\Users\Amand\source\repos\Eksamen 1\obj\Debug\net8.0\ref\Eksamen 1.dll
